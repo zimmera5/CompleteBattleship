@@ -98,7 +98,7 @@ public class CompleteBattleship {
         String boat = "\u26F5";
         String hit = "\uD83D\uDCA5";
         String miss = "\uD83D\uDCA6";
-
+        //unicode characters
         System.out.print("   ");
 
         System.out.print("\uFF21"+" "); //A
